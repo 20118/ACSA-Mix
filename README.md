@@ -12,4 +12,4 @@ File data.csv contains samples from the restaurant domain. Data is present in th
   
   
   
-  Complete dataset will be made available to the community for further research.
+  
