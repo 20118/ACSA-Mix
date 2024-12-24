@@ -1,7 +1,7 @@
 # ACSA-Mix
 File data.csv contains samples from the restaurant domain. Data is present in the "CSV" format, annotated for aspect categories and corresponding polarities. Polarity can be positive, negative, neutral, or conflict.
 
-
+Complete dataset is present in data folder.
 
 
   Column A represents the unique id of text
