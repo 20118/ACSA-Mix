@@ -1,8 +1,12 @@
-# ACSA-Mix
+# Aspect Category Detection and Sentiment Classification (ACSA-Mix)
+This repository contains the dataset for our paper: "Atmosphere kamaal ka tha (was wonderful): A Multilingual Joint Learning Framework for Aspect Category Detection and Sentiment Classification" published in IEEE TCSS.
+
+Link to paper: https://ieeexplore.ieee.org/document/10483106
+
+
 File data.csv contains samples from the restaurant domain. Data is present in the "CSV" format, annotated for aspect categories and corresponding polarities. Polarity can be positive, negative, neutral, or conflict.
 
 Complete dataset is present in data folder.
-
 
   Column A represents the unique id of text
   Column B contains the code-mixed reviews
